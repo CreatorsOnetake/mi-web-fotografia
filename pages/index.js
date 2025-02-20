@@ -8,7 +8,7 @@ export default function Home() {
         {/* Botón dentro del flujo del contenido */}
         <button 
           className="portfolio-button" 
-          onClick={() => window.location.href = "https://frank-rivas.pixellu.gallery/grecia-y-renzo"}
+          onClick={() => window.location.href = "https://linktr.ee/Frankrivas"}
         >
           NUESTRO PORTAFOLIO
         </button>
